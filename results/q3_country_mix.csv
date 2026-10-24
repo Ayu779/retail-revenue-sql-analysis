@@ -1,0 +1,9 @@
+country,customers,revenue,revenue_share_pct,revenue_per_customer,avg_order_value,orders_per_customer
+United Kingdom,5334,14043120.0,90.1,2633.0,421.0,6.3
+Netherlands,22,549773.0,3.5,24990.0,2545.0,9.8
+Germany,106,383192.0,2.5,3615.0,510.0,7.1
+France,93,309686.0,2.0,3330.0,523.0,6.4
+Spain,35,96399.0,0.6,2754.0,704.0,3.9
+Switzerland,22,95543.0,0.6,4343.0,1062.0,4.1
+Belgium,28,56788.0,0.4,2028.0,394.0,5.1
+Portugal,23,46610.0,0.3,2027.0,562.0,3.6

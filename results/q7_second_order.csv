@@ -1,0 +1,7 @@
+time_to_second_order,customers,share_pct,cumulative_pct
+1. Within 30 days,671,20.4,20.4
+2. 31 to 60 days,469,14.3,34.7
+3. 61 to 90 days,302,9.2,43.9
+4. 91 to 180 days,523,15.9,59.8
+5. After 180 days,542,16.5,76.2
+6. Never (so far),781,23.8,100.0

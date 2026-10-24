@@ -1,0 +1,4 @@
+retail.db
+results_run.log
+data/*.csv
+__pycache__/
